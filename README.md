@@ -1,3 +1,5 @@
+# 本仓库已废弃，请移步：https://github.com/app-runner/app
+
 # Solon Toolkit Manager (stm)
 
 `stm`是一个基于`solon`和`picocli`开发的应用管理器，可以方便的管理应用，包括安装、运行、卸载、更新、查看等功能。
